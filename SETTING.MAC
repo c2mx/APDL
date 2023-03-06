@@ -1,0 +1,8 @@
+!设置弹性模量 泊松比 密度 定义189梁单元
+/PMACRO
+/NOPR
+/PREP7
+ET,1,BEAM189
+MP,EX,1,2.1e5
+MP,NUXY,1,0.3
+MP,DENS,1,7.85e-9
